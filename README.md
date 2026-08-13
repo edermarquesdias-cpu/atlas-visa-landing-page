@@ -6,6 +6,32 @@ Atlas Visa is a portfolio concept created to demonstrate professional landing pa
 
 > Atlas Visa is a fictional portfolio project and does not represent a real visa consulting company.
 
+## Live Demo
+
+**https://atlas-visa-navy.vercel.app**
+
+## Visual Preview
+
+### Hero
+
+![Atlas Visa hero](docs/images/hero-desktop.webp)
+
+### Services
+
+![Atlas Visa services](docs/images/services.webp)
+
+### Process
+
+![Atlas Visa process](docs/images/process.webp)
+
+### FAQ & Conversion
+
+![Atlas Visa FAQ and contact flow](docs/images/faq-contact.webp)
+
+### Mobile Experience
+
+![Atlas Visa mobile experience](docs/images/mobile.webp)
+
 ## Project Goal
 
 The goal was to create a modern, trustworthy and easy-to-navigate landing page capable of guiding visitors from service discovery to direct contact.
@@ -64,13 +90,7 @@ The project focused on:
 
 ## Tech Stack
 
-- Next.js
-- React
-- TypeScript / JavaScript
-- HTML
-- CSS
-- Vercel
-- Git / GitHub
+Next.js • React • TypeScript / JavaScript • HTML • CSS • Vercel • Git / GitHub
 
 ## Result
 
@@ -79,6 +99,10 @@ The final result is a responsive, conversion-focused landing page that clearly c
 ## Skills Demonstrated
 
 Landing Page Development • Next.js • React • Responsive Design • UI Implementation • Conversion UX • Accessibility • SEO Basics • Vercel
+
+## Case Study
+
+A more detailed breakdown of the UX, visual direction and conversion strategy is available in [`docs/case-study.md`](docs/case-study.md).
 
 ## Portfolio Context
 
